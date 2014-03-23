@@ -144,6 +144,13 @@ def html(lines, contact_lines, *args):
     return "".join(lines)
 
 
+@processor.register
+def passthrough(lines, contact_lines, *args):
+    for index in range(0, len(contact_lines)):
+        lines.insert(index + 3, contact_lines[index])
+    return "".join(lines)
+
+
 def main():
     try:
         format = sys.argv[1]
