@@ -1,25 +1,42 @@
 Andrew Mroczkowski
 ==================
 
-[http://amrox.me](http://amrox.me) | andy@mrox.net | 267.226.7896
-
+andy.mroczkowski@gmail.com | 267.226.7896
 
 
 Work Experience
 ---------------
 
+*   **Three Rings Design, Inc** (Philadelphia, PA)
+
+    *Lead Design Engineer, May 2014 - Current*
+
+    Three Rings Design is one of SEGA's premiere mobile game studios. Since joining, our studio has shipped Super Monkey Ball Bounce for iOS and Android in Fall 2014. Our next title is in development, but is currently unannounced.
+
+    Responsibilities include:
+    
+    - Lead a 4-person Engineering Team
+    - Overall system architecture
+    - Build client and server side features
+    - Implement software development processes
+    - Contribute to game and user experience design
+
+
 *   **MindSnacks, Inc** (San Francisco, CA)
 
-    Co-founder & CTO, November 2010 - Present
+    *Co-founder & CTO, November 2010 - April 2014*
 
-    -   Shipped 10 educational iOS games for subjects including Spanish, French Japanese, Kids' Vocab and U.S. Geography.
+	MindSnacks serves up education in fun, bite-sized morsels. Their games teach essential vocabulary, reading, writing, and conversational skills in 13 different languages and SAT Vocab. MindSnacks was voted educational app of the year by Apple in 2011, and their apps consistently rank in the top 10 in the App Store’s Education category.
+    
+	Responsibilities and achievements include:
+
     -   Recruited, hired and managed a 12+ person engineering team.
     -   Implemented a matrix organization structure to allow cross-functional teams consisting of artists, engineers, and educational content specialists.
     -   Was a core contributor to large iOS codebase.
     -   Created original back-end with Django and AWS.
     -   Built and maintained Jenkins continuous integration stack.
     -   Released several components as open-source.
-    -   Key achievements:
+    -   Additional Highlights:
         -   Raised 6.5 million Series A Sequoia Capital 
         -   5+ million downloads 
         -   \#1 grossing developer of educational games in App Store in 2012 
@@ -29,7 +46,7 @@ Work Experience
    
 *   **Laan Labs** (Philadelphia, PA)
 
-    iOS Developer, May 2010 - November 2010
+    *iOS Developer, May 2010 - November 2010*
   
     -   Developed original iOS applications, including:
         - TapDJ
@@ -40,7 +57,8 @@ Work Experience
 
 *   **The Neat Company** (Philadelphia, PA)
 
-    Senior Software Engineer, June 2007 - May 2010 
+    *Senior Software Engineer, June 2007 - May 2010*
+
 	-   Play a key role in developing The Neat Company’s document organization products for the Mac.
 	-   Shipped several major versions of NeatWorks (previously NeatReceipts) for Mac. - Worked on all parts of the application, including UI design, processing workflow, data persistence,
 custom views, scanner interfaces, and asynchronous task management.
@@ -54,7 +72,7 @@ custom views, scanner interfaces, and asynchronous task management.
 
 *   **Drakontas** (Glenside, PA)
 
-    Manager, Product Development, June 2005 - June 2007
+    *Manager, Product Development, June 2005 - June 2007*
 
     - Developed robust, intuitive mobile applications intended for use by law enforcement and first responders in start-up environment.
     - Designed and implemented networking software to provide reliable communication in disruptive wireless environments.
@@ -64,7 +82,7 @@ custom views, scanner interfaces, and asynchronous task management.
 
 *   **Drexel University** (Philadelphia, PA)
 
-    Research Assistant, September 2002 - June 2005
+    *Research Assistant, September 2002 - June 2005*
 
     - Functioned as a graduate-level research assistant on the Secure Wireless Agent Testbed project.
     - Performed research in the areas of cryptographic key distribution, ad-hoc networking, and power efficiency. - Contributed to academic research papers. Ran experiments for measuring system performance and security. - Assisted with data analysis and interpretation.
@@ -103,6 +121,13 @@ custom views, scanner interfaces, and asynchronous task management.
     Adjunct Faculty, January 2008 - March 2008
 
     -   Taught "CS190: Java" introductory Java programming course.
+
+*  **Lockheed Martin** (Moorestown, NJ)
+
+    Co-op, September 1999 - March 2000
+
+	- Worked on messaging infrastructure for AEGIS combat system.
+	- Obtained "Secret" clearance.
     
 
 Education
@@ -117,9 +142,9 @@ Education
 Skills
 ------
 
-*   Very experienced with iOS, Cocoa, Xcode, C, Mac OS X
-*   Moderate experience with C++, Java, AWS, bash, Jenkins, Linux
-*   Familiar with Android, Cocos2D, MOAI, Django, Ruby, HTML, CSS, JavaScript, MySQL, PostgreSQL, MongoDB, Redis
+*   Very experienced with Python, Java, iOS, Cocoa, Xcode, C, Mac OS X
+*   Moderate experience with C++, AWS, Jenkins, PostgreSQL, Linux
+*   Familiar with Android, Cocos2D, Django, Ruby, HTML, CSS, JavaScript, MySQL, MongoDB, Redis, Unity3D
 
 
 Links
