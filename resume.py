@@ -110,7 +110,7 @@ def tex(lines, contact_lines, *args):
     for c in escape:
         contact_lines = sub(r'([^\\])\%s' % c, r'\1\%s' % c, contact_lines)
 
-    lines.insert(0, "\\begin{nospace}\\begin{flushright}\n" +
+    lines.insert(0, "\\begin{nospace}\\begin{flushright}\n\\vspace{-2em}" +
                     contact_lines +
                     "\n\\end{flushright}\\end{nospace}\n")
 
@@ -124,8 +124,8 @@ def html(lines, contact_lines, *args):
     for word in untex:
         # yuck
         replace = lambda l: l.replace(r"\%s" % word, word)
-        lines = map(replace, lines)
-        contact_lines = map(replace, contact_lines)
+        lines = list(map(replace, lines))
+        contact_lines = list(map(replace, contact_lines))
 
     gravatar = None
     for line in contact_lines:
@@ -173,7 +173,7 @@ def main():
 
         contact_lines.extend(parts)
 
-    print processor.process(format, lines, contact_lines, *sys.argv[1:])
+    print(processor.process(format, lines, contact_lines, *sys.argv[1:]))
 
 if __name__ == '__main__':
     main()
