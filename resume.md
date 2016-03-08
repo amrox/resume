@@ -17,11 +17,12 @@ Work Experience
 	
 	- Engineering:
  		- Oversaw system architecture and selected technology stack.
- 		- Implemented a large portion of game server (Dropwizard/Java), as well as client features (Unity/C#).
+ 		- Implemented a large portion of game server (Dropwizard/Java).
+		- Implemented client features (Unity/C#).
  		- Designed and implemented "one button" AWS deployment with Ansible.
  		- Integrated Vagrant for local back-end development.
  		- Maintained automated builds for client and server with Jenkins.
- 		- Created internal web tools with AngularJS and Dropwizard.
+ 		- Created internal web tools with AngularJS.
  		- Integrated Graphite for performance monitoring.
 	- Management:
  		- Lead a 4-person engineering team.
