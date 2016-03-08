@@ -9,25 +9,39 @@ Work Experience
 
 *   **Three Rings Design, Inc** (Philadelphia, PA)
 
-    *Lead Design Engineer, May 2014 - Current*
+    *Technical Design Lead, May 2014 - March 2016*
 
     Three Rings Design is one of SEGA's premiere mobile game studios. Since joining, our studio has shipped Super Monkey Ball Bounce for iOS and Android in Fall 2014. Our next title is in development, but is currently unannounced.
 
     Responsibilities include:
-    
-    - Lead a 4-person Engineering Team
-    - Oversee general system architecture
-    - Build client side features in Unity3d and server side features in Java
-	- Design and implement server deployment (DevOps) with AWS and Ansible
-    - Foster strong engineering culture
-    - Contribute to game and user experience design
+	
+	- Engineering:
+ 		- Oversaw system architecture and selected technology stack.
+ 		- Implemented a large portion of game server (Dropwizard/Java), as well as client features (Unity/C#).
+ 		- Designed and implemented "one button" AWS deployment with Ansible.
+ 		- Integrated Vagrant for local back-end development.
+ 		- Maintained automated builds for client and server with Jenkins.
+ 		- Created internal web tools with AngularJS and Dropwizard.
+ 		- Integrated Graphite for performance monitoring.
+	- Management:
+ 		- Lead a 4-person engineering team.
+ 		- Advised and approved quarterly goals.
+ 		- Implemented processes such as peer code review.
+ 		- Coordinated with QA team.
+	- Hiring:
+ 		- Managed engineer hiring process.
+ 		- Reviewed applications code challenges.
+ 		- Conducted phone screens.
+ 		- Organized on-site interviews.
 
 
-*   **MindSnacks, Inc** (San Francisco, CA)
+*   **MindSnacks, Inc / Elevate Labs** (San Francisco, CA)
 
     *Co-founder & CTO, November 2010 - April 2014*
 
-    MindSnacks serves up education in fun, bite-sized morsels. Their games teach essential vocabulary, reading, writing, and conversational skills in 13 different languages and SAT Vocab. MindSnacks was voted educational app of the year by Apple in 2011, and their apps consistently rank in the top 10 in the App Store’s Education category.
+    MindSnacks created mobile games that taught essential vocabulary, reading, writing, and conversational skills in 13 different languages and SAT Vocab. 
+
+	Elevate is a new type of brain training tool that helps you speak more articulately, write more effectively, and more.
     
     Responsibilities and achievements include:
 
@@ -42,7 +56,8 @@ Work Experience
         -   5+ million downloads 
         -   \#1 grossing developer of educational games in App Store in 2012 
         -   Had 4 Apps in the Top 25 Education category (grossing) 
-        -   Selected as a 2011 Education App of the Year by Apple 
+        -   'MindSnacks Spanish' selected as a '2011 Education App of the Year' by Apple 
+		-   'Elevate' selected as 'Best iPhone App of 2014' by Apple
 
    
 *   **Laan Labs** (Philadelphia, PA)
@@ -144,8 +159,8 @@ Skills
 ------
 
 *   Very experienced with Python, Java, iOS, Cocoa, Xcode, C, Mac OS X
-*   Moderate experience with C++, AWS, Jenkins, PostgreSQL, Linux
-*   Familiar with Android, Cocos2D, Django, Ruby, HTML, CSS, JavaScript, MySQL, MongoDB, Redis, Unity3D
+*   Moderate experience with C++, C#, JavaScript, AWS, Jenkins, Ansible, Unity, PostgreSQL, Linux
+*   Familiar with Android, Cocos2D, Django, Ruby, HTML, CSS, JavaScript, MySQL, MongoDB, Redis
 
 
 Links
