@@ -13,8 +13,6 @@ Work Experience
 
     Three Rings Design was one of SEGA's premiere mobile game studios. Since joining, the studio has shipped Super Monkey Ball Bounce for iOS and Android in Fall 2014. Our next title was in development since early 2015, but was cancelled when the studio closed in March 2016.
 
-    Responsibilities include:
-	
 	- Engineering:
  		- Oversaw system architecture and selected technology stack.
  		- Implemented a large portion of game server (Dropwizard/Java).
